@@ -7,7 +7,7 @@
 
 # frequent use link
 
-- mostly common online document set(with instant search) for web developer: http://devdocs.io/
+- http://devdocs.io/  - mostly common online document set(with instant search) for web developer
 # reference
 
 - how to write markdown text file on Github: https://help.github.com/categories/writing-on-github/
