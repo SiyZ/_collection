@@ -1,5 +1,5 @@
 
-# usage
+# example & usage
 
 
 ### get console keyboard input(stdin)
