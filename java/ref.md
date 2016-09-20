@@ -7,4 +7,4 @@ useful link for beginner:
 
 for advanced begginer:
 
-- compare native js operation with other 3rd libs: ttp://vanilla-js.com/
+- compare native js operation with other 3rd libs: http://vanilla-js.com/
