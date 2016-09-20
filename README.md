@@ -7,7 +7,8 @@
 
 # frequent use link
 
-- http://devdocs.io/  - mostly common online document set(with instant search) for web developer or open source
+- http://devdocs.io/
+- more -> https://github.com/restait/_collection/wiki/bookmark
 
 
 # reference
