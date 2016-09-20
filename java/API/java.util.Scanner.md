@@ -13,8 +13,8 @@ System.out.println(s);
 
 # reference
 
-|method|arguments|description|
-|------|----|-----------|
-|nextLine()|| |
-|next()|  |   |
-|nextInt()| | |
+|method|arguments|return type|description|
+|------|----|----|-------|
+|nextLine()||String||
+|next()|  |String||
+|nextInt()| |  ||
