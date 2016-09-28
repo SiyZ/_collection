@@ -6,7 +6,7 @@
 
 最后应该就是大题，基本跟gui相关，像什么jtextfield的用法，要你写个小applet或者jframe
 
-涉及到event lisetener，actionperformed那些，书上也有相关的例子。
+涉及到event listener，actionperformed那些，书上也有相关的例子。
 
 如果没猜错的话最后那个例子还是运放，其实算式对不对不重要，错也只错method里的一行代码。
 
